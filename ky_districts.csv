@@ -1,0 +1,9 @@
+district,county,city,net_rate,gross_rate,min_tax,max_tax
+Lexington-Fayette,Fayette,Lexington,0.0225,0,0,999999
+Louisville Metro,Jefferson,Louisville,0.022,0,0,999999
+Boone County,Boone,,0.01,0,0,999999
+Frankfort,Franklin,Frankfort,0.02,0,0,999999
+Bowling Green,Warren,Bowling Green,0.02,0,0,999999
+Covington,Kenton,Covington,0.0245,0,0,999999
+Owensboro,Daviess,Owensboro,0.0133,0,0,999999
+Florence,Boone,Florence,0.02,0,0,999999
